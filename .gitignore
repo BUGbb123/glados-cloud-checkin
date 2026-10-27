@@ -1,0 +1,14 @@
+node_modules/
+.wrangler/
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+*.log
+*.zip
+*.png
+verification.json
+*cookie*
+*session*
+*storage-state*
+续接记录.md

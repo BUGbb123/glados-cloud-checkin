@@ -1,0 +1,12 @@
+{
+  "name": "glados-cloud-checkin",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "GLaDOS free check-in on Cloudflare Workers with record verification and duplicate submission protection",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test worker.test.mjs",
+    "check": "node --check worker.mjs"
+  }
+}
