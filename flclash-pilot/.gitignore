@@ -1,0 +1,14 @@
+/build/
+.vs/
+*.pdb
+*.user
+*.log
+.env
+.env.*
+config.json
+config.yaml
+config.yml
+*.secret
+*cookie*
+*subscription*
+
